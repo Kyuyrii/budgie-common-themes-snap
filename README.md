@@ -3,7 +3,7 @@ budgie-common-themes is a Snap that allows you to use several themes in Snap app
 The GTK themes available in it were chosen based on Ubuntu Budgie, Fedora Budgie, Ultramarine and Arch.
 
 I recommend using Papirus icons, mainly because it has a snap version that automatically connects with the applications:
-[https://snapcraft.io/icon-theme-papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
+https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
 
 budgie-common-themes needs gtk-common-themes to be removed, so as not to generate conflicts, so it will use gtk-theme-pop as a base to connect with the applications.
 
