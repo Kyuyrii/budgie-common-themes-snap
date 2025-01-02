@@ -14,3 +14,15 @@ https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
 budgie-common-themes needs gtk-common-themes to be removed, so as not to generate conflicts, so it will use gtk-theme-pop as a base to connect with the applications.
 
 In the zip file that has the Snap files and the sh file for installation, I left a sh file to be used when you want to connect budgie-common-themes with the Snap applications currently installed.
+
+# Available GTK themes:
+
+Arc, Fluent, Flugir Budgie, Materia, Pocillo, Qogir and QogirBudgie.
+
+# Available icon themes:
+
+Papirus, Pocillo, Qogir and Tela.
+
+# Available cursors:
+
+Adwaita, DMZ-Black, DMZ-White and FlugirDot.
