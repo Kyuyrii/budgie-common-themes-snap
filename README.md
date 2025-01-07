@@ -13,7 +13,7 @@ Arc, Fluent, Flugir Budgie, Matcha, Materia, Pocillo, Qogir and QogirBudgie.
 
 # Available icon themes:
 
-Fluent, Flugir-Tela, Papirus, Pocillo, Qogir and Tela.
+Fluent round, Flugir-Tela, Papirus, Pocillo, Qogir and Tela.
 
 # Available cursors:
 
