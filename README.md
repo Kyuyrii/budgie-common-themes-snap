@@ -9,12 +9,12 @@ budgie-common-themes is a Snap that allows you to use several themes in Snap app
 
 # Available GTK themes:
 
-Arc, Fluent round, Flugir Budgie, Matcha, Materia, Pocillo, Qogir and QogirBudgie.
+Arc, Fluent round, Flugir Budgie, Matcha, Materia, Pocillo, Qogir, QogirBudgie and Vimix.
 
 # Available icon themes:
 
-Fluent round, Flugir-Tela, Papirus, Pocillo, Qogir and Tela.
+ePapirus, Fluent round, Flugir-Tela, Papirus, Pocillo, Qogir, Tela, TelaBudgie and Vimix.
 
 # Available cursors:
 
-Adwaita, DMZ-Black, DMZ-White, Eevee, FlugirDot and Vulpix.
+Adwaita, DMZ-Black, DMZ-White, Fluent, FlugirDot, Qogir and Vimix.
